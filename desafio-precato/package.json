@@ -1,7 +1,7 @@
 {
    "name": "desafio-precato",
    "version": "0.0.1",
-   "description": "Awesome project developed with TypeORM.",
+   "description": "Desafio Dev Backend - Precato",
    "devDependencies": {
       "@types/cors": "^2.8.12",
       "@types/express": "^4.17.13",
